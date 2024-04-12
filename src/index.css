@@ -1,5 +1,11 @@
 body {
   margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0CO9Uc1ojAnEZR5W6bYMMkLdCldtYRG53nr50NN2sA&s');
+    background-size: cover;
+    background-position: center;
+    overflow: auto; 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
